@@ -1,0 +1,16 @@
+{
+  "name": "KARSA POS",
+  "short_name": "KARSA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/karsa-pos-logo.png.png",
+      "sizes": "1536x1024",
+      "type": "image/png"
+    }
+  ]
+}
